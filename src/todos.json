@@ -1,0 +1,22 @@
+{
+    "todos": [
+      {
+        "title": "Tarea 1",
+        "responsible": "John",
+        "description": "Cocinar",
+        "priority": "Baja"
+      },
+      {
+        "title": "Tarea 2",
+        "responsible": "Nubia",
+        "description": "limpiar",
+        "priority": "Media"
+      },
+      {
+        "title": "Tarea 3",
+        "responsible": "Yango",
+        "description": "Salir",
+        "priority": "Alta"
+      }
+    ]
+  }
